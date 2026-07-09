@@ -45,6 +45,43 @@ I enjoy developing scalable applications, solving complex business problems, and
 
 ---
 
+## 📌 Featured Projects
+
+### 🚀 Enterprise Web Portal
+**Laravel • Vue.js • MySQL • REST APIs**
+
+Developed and maintained enterprise web applications with role-based access control (RBAC), RESTful API integrations, reporting modules, user management, and scalable backend architecture.
+
+---
+
+### 🤖 AI-Powered Content Platform
+**Laravel • OpenAI • Google Gemini**
+
+Designed and integrated AI-powered features using OpenAI and Google Gemini APIs to automate content generation, improve workflows, and enhance user experiences.
+
+---
+
+### 📋 Project Management System
+**Laravel • Vue.js • MySQL**
+
+Built a project management platform inspired by Jira, Trello, and Asana, featuring Kanban boards, task management, team collaboration, notifications, and file management.
+
+---
+
+### 🌐 WordPress Development
+**WordPress • PHP • Elementor • Custom Development**
+
+Developing and customizing WordPress solutions while expanding expertise in themes, plugins, CMS architecture, and modern WordPress development practices.
+
+---
+
+### 🔌 REST API Development
+**Laravel • PHP**
+
+Designed and integrated secure RESTful APIs with third-party services, payment gateways, authentication, and external systems for enterprise applications.
+
+---
+
 ## 🌟 Featured Skills
 
 - PHP
@@ -61,7 +98,7 @@ I enjoy developing scalable applications, solving complex business problems, and
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/dante-zaragoza-33a981187
-- 📧 Email: your-email@example.com
+- 📧 Email: dantezaragoza12@gmail.com
 
 ---
 
